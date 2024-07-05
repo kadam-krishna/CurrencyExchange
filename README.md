@@ -23,4 +23,4 @@ How to clone your project
 git clone https://github.com/kadam-krishna/CurrencyExchange
 ```
 
-<img src"CurrExc_SS.png></img>
+<img src"./CurrExc_SS.png></img>
