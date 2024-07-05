@@ -22,3 +22,5 @@ How to clone your project
 ```bash
 git clone https://github.com/kadam-krishna/CurrencyExchange
 ```
+
+<img src"CurrExc_SS.png></img>
