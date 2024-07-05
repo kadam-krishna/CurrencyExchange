@@ -14,6 +14,7 @@
 - HTML
 - CSS
 - Javascript
+- <a href="https://github.com/fawazahmed0/exchange-api">Free Currency Exchange Rates API</a>
  
 <h3>Cloning</h3>
 
